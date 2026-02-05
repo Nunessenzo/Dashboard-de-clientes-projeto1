@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gestor de Clientes Pro",
+  "description": "Um aplicativo intuitivo e mobile-first para pequenas empresas gerenciarem seu cadastro de clientes de forma organizada e eficiente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
